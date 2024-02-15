@@ -2,4 +2,4 @@
 
 - 🏫 Studying at University of Waterloo
 - 🌱 Major: Computer Science
-- ⚙️ Interests: Data Structures, Competetive Programming
+- ⚙️ Interests: Algorithms, Competetive Programming
