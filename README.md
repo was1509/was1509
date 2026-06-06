@@ -2,5 +2,4 @@
 
 - 🏫 Studying at University of Waterloo
 - 🌱 Major: Computer Science
-- ⚙️ Interests: Competetive Programming
-- 💻 Favourite Language: C++
+- ⚙️ Interests: Backend & low level systems 
